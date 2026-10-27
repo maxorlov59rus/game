@@ -1,0 +1,15 @@
+build/
+*.o
+*.a
+*.out
+authserver
+worldserver
+mapextractor
+vmap4assembler
+vmap4extractor
+mmaps_generator
+*.log
+*.tmp
+import_status.txt
+*.7z
+*.sql
